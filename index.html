@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Website referensi SOP Land Preparation atau persiapan lahan kelapa sawit.">
+<meta name="theme-color" content="#1e5631">
+<title>LandPrep | SOP Persiapan Lahan</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="#beranda" aria-label="LandPrep beranda"><span class="brand-mark">LP</span><span>LandPrep<small>Knowledge & SOP Center</small></span></a>
+  <button class="menu-toggle" id="menuToggle" aria-label="Buka navigasi">☰</button>
+  <nav id="nav"><a href="#beranda" class="active">Beranda</a><a href="#sop">Daftar SOP</a><a href="#tentang">Tentang</a><a href="#unduhan">Unduhan</a></nav>
+</header>
+<main>
+<section class="hero" id="beranda">
+  <div class="hero-copy">
+    <span class="eyebrow">MANAJEMEN PRODUKTIVITAS KELAPA SAWIT</span>
+    <h1>Panduan <em>Land Preparation</em></h1>
+    <p>Pusat informasi prosedur persiapan lahan kelapa sawit berdasarkan cabang materi Land Preparation pada diagram Manajemen Produktivitas KS Berbasis ISPO.</p>
+    <div class="hero-actions"><a class="btn primary" href="#sop">Jelajahi SOP <span>→</span></a><a class="btn secondary" href="documents/Kumpulan_SOP_Land_Preparation_15_SOP.docx">Unduh dokumen Word</a></div>
+  </div>
+  <div class="hero-visual" aria-label="Ilustrasi perkebunan kelapa sawit">
+    <div class="sun"></div><div class="hill hill-back"></div><div class="hill hill-front"></div>
+    <div class="palm p1">🌴</div><div class="palm p2">🌴</div><div class="palm p3">🌴</div>
+    <div class="visual-label"><b>Persiapan yang terencana</b><small>Rencana · Pelaksanaan · Pemeriksaan</small></div>
+  </div>
+</section>
+<section class="stats" aria-label="Ringkasan website">
+  <article><b id="totalSop">15</b><span>Dokumen SOP</span></article>
+  <article><b id="totalBranch">5</b><span>Cabang pekerjaan</span></article>
+  <article><b>01</b><span>Sumber diagram</span></article>
+</section>
+<section class="section" id="sop">
+  <div class="section-head"><div><span class="eyebrow">PUSAT DOKUMEN</span><h2>Jelajahi SOP</h2><p>Pilih cabang pekerjaan atau cari kata kunci untuk menemukan prosedur.</p></div><span class="section-tag">Land Preparation</span></div>
+  <div class="filters">
+    <label class="searchbox"><span>⌕</span><input id="search" type="search" placeholder="Cari SOP, prosedur, alat, atau catatan..."></label>
+    <select id="branchFilter" aria-label="Filter cabang"><option value="">Semua cabang</option></select>
+    <span id="resultCount" class="result-count">Memuat SOP...</span>
+  </div>
+  <div class="branch-chips" id="branchChips"></div>
+  <div class="sop-layout">
+    <div class="sop-list" id="sopList"><div class="loading">Memuat daftar SOP...</div></div>
+    <article class="sop-detail" id="sopDetail"><div class="loading">Pilih salah satu SOP untuk melihat detail.</div></article>
+  </div>
+</section>
+<section class="section about" id="tentang">
+  <div class="about-card"><span class="eyebrow">TENTANG MATERI</span><h2>Persiapan lahan yang terstruktur</h2><p>Materi website mengikuti lima cabang pada diagram sumber: Lahan Datar, Lahan Bergelombang, Lahan Gambut, Lahan Rendahan, dan Pemetaan. Setiap topik dikembangkan menjadi halaman SOP agar lebih mudah dibaca dan ditelusuri.</p><div class="notice"><b>Catatan status dokumen</b><br>Konten SOP adalah draf akademik/template. Parameter teknis yang tidak tersedia dalam diagram sumber tidak diasumsikan dan harus diperiksa serta disahkan oleh perusahaan atau tenaga kompeten sebelum diterapkan.</div></div>
+  <div class="branch-overview" id="branchOverview"></div>
+</section>
+<section class="section downloads" id="unduhan">
+  <div class="section-head"><div><span class="eyebrow">BERKAS PENDUKUNG</span><h2>Unduhan</h2><p>Dokumen dan data yang dapat digunakan untuk belajar atau pengembangan website.</p></div></div>
+  <div class="download-grid">
+    <a class="download-card" href="documents/Kumpulan_SOP_Land_Preparation_15_SOP.docx"><span class="file-icon">DOC</span><b>Kumpulan SOP Land Preparation</b><small>Dokumen Word · 15 SOP</small><span class="download-link">Unduh dokumen →</span></a>
+    <a class="download-card" href="data/sop_index.csv"><span class="file-icon csv">CSV</span><b>Indeks SOP</b><small>Daftar ID, cabang, dan judul SOP</small><span class="download-link">Unduh data →</span></a>
+    <a class="download-card" href="data/sop_data.json"><span class="file-icon json">JSON</span><b>Data SOP</b><small>Data terstruktur untuk pengembangan</small><span class="download-link">Lihat data →</span></a>
+  </div>
+</section>
+</main>
+<footer><div class="footer-brand"><span class="brand-mark">LP</span><b>LandPrep</b></div><p>Website referensi akademik · Materi Land Preparation</p><small>Sumber struktur: “MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)”, halaman 1.</small></footer>
+<script src="assets/app.js"></script>
+</body></html>

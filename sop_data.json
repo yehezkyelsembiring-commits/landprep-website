@@ -1,0 +1,956 @@
+{
+  "package_title": "Paket SOP Land Preparation (Persiapan Lahan)",
+  "source_file": "MANAJEMEN Produktivitas KS Berbasis ISPO (Sg).pdf",
+  "source_page": 1,
+  "generated_date": "2026-11-11",
+  "total_sops": 15,
+  "branches": [
+    "Lahan Datar",
+    "Lahan Bergelombang",
+    "Lahan Gambut",
+    "Lahan Rendahan",
+    "Pemetaan"
+  ],
+  "important_notice": "Seluruh SOP merupakan draf akademik. Parameter teknis yang tidak tersedia pada diagram sumber tidak diasumsikan; wajib disesuaikan, diverifikasi, dan disahkan oleh perusahaan/tenaga kompeten sebelum pelaksanaan.",
+  "sops": [
+    {
+      "id": "LP-01",
+      "branch": "Lahan Datar",
+      "title": "Pancang Mata Lima",
+      "purpose": "Menetapkan tata cara penentuan dan pemasangan titik pancang tanam dengan pola mata lima pada areal relatif datar agar susunan tanaman teratur dan jarak tanam mengikuti rancangan kebun yang disahkan.",
+      "scope": "Survei awal, penetapan arah barisan, penentuan titik tanam, pemasangan pancang, dan pemeriksaan hasil pada lahan datar.",
+      "prereq": [
+        "Peta atau desain blok dan rekomendasi jarak tanam yang telah disetujui.",
+        "Batas blok serta kondisi lahan telah diperiksa.",
+        "Petugas memahami penggunaan alat ukur dan sistem koordinat kerja."
+      ],
+      "tools": [
+        "Peta kerja/desain tanam",
+        "Pancang dan penanda",
+        "Meteran atau alat ukur jarak",
+        "Kompas/GNSS atau alat bantu arah bila tersedia",
+        "Formulir pemeriksaan"
+      ],
+      "steps": [
+        "Pelajari peta blok, luas efektif, batas, akses, dan rancangan jarak tanam yang berlaku.",
+        "Lakukan peninjauan lapangan untuk memastikan areal benar-benar relatif datar dan tidak terdapat hambatan yang mengubah pola tanam.",
+        "Tetapkan titik acuan dan arah barisan sesuai desain blok serta kondisi batas lapangan.",
+        "Ukur dan tandai titik-titik tanam menggunakan pola mata lima berdasarkan jarak tanam yang disahkan perusahaan.",
+        "Pasang pancang pada setiap titik tanam secara tegak dan mudah terlihat; gunakan penanda yang seragam.",
+        "Periksa keteraturan barisan, konsistensi jarak, kesesuaian terhadap batas blok, serta titik yang terhalang.",
+        "Perbaiki titik yang menyimpang sebelum pekerjaan lanjutan dimulai.",
+        "Catat blok, luas, tanggal, metode ukur, jumlah titik, penyimpangan, dan tindakan koreksi."
+      ],
+      "checks": [
+        "Titik pancang mengikuti pola dan jarak tanam pada desain yang disahkan.",
+        "Barisan konsisten dan berada di dalam batas blok.",
+        "Titik bermasalah telah ditandai dan ditindaklanjuti."
+      ],
+      "safety": [
+        "Gunakan sepatu lapangan, pakaian kerja, dan perlindungan yang sesuai kondisi cuaca.",
+        "Waspadai lubang, akar, permukaan licin, hewan, dan lalu lintas kendaraan kebun.",
+        "Pengukuran dekat alat berat atau jalan operasional dilakukan dengan koordinasi pengawas."
+      ],
+      "environment": [
+        "Hindari pembukaan vegetasi di luar batas kerja.",
+        "Jangan memasang pancang pada sempadan sungai, kawasan lindung, atau area terlarang."
+      ],
+      "records": [
+        "Peta pancang/as-built",
+        "Form pemeriksaan jarak dan barisan",
+        "Foto titik acuan dan hasil pekerjaan"
+      ],
+      "notes": "Pola mata lima dan jarak tanam harus mengikuti desain agronomi/site plan setempat; diagram sumber tidak mencantumkan angka jarak.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-02",
+      "branch": "Lahan Datar",
+      "title": "Penetapan Arah Blok",
+      "purpose": "Menetapkan orientasi blok dan arah barisan tanam secara konsisten dengan rancangan kebun, batas lahan, akses, dan kondisi lapangan.",
+      "scope": "Peninjauan, penentuan orientasi, penandaan, dan dokumentasi arah blok pada lahan datar.",
+      "prereq": [
+        "Peta topografi/batas dan desain kebun tersedia.",
+        "Batas legal/operasional serta area lindung telah diidentifikasi."
+      ],
+      "tools": [
+        "Peta kerja",
+        "Kompas/GNSS atau alat ukur arah",
+        "Patok penanda",
+        "Alat tulis/perangkat pencatatan"
+      ],
+      "steps": [
+        "Tinjau peta blok dan data batas lahan yang berlaku.",
+        "Verifikasi batas dan kondisi aktual di lapangan bersama pengawas.",
+        "Identifikasi akses, saluran, sungai, area lindung, bangunan, dan hambatan lain.",
+        "Tentukan orientasi blok dan arah barisan sesuai rancangan teknis yang disahkan.",
+        "Tandai garis acuan dan titik sudut blok agar dapat digunakan oleh tim pemancangan.",
+        "Cocokkan arah di lapangan dengan peta; catat perbedaan atau kendala.",
+        "Minta persetujuan penanggung jawab teknis sebelum arah digunakan sebagai acuan pemancangan.",
+        "Perbarui peta kerja dan dokumentasikan keputusan."
+      ],
+      "checks": [
+        "Arah blok terdokumentasi dan disetujui.",
+        "Garis acuan dapat dikenali di lapangan.",
+        "Tidak ada konflik yang belum ditangani dengan batas atau area lindung."
+      ],
+      "safety": [
+        "Lakukan survei berpasangan pada lokasi terpencil atau bervegetasi rapat.",
+        "Gunakan perlindungan cuaca dan komunikasi kerja; hindari pengukuran saat petir."
+      ],
+      "environment": [
+        "Jangan membuka jalur baru di luar koridor yang diizinkan.",
+        "Pertahankan sempadan dan area konservasi sesuai peta."
+      ],
+      "records": [
+        "Peta arah blok",
+        "Berita acara penetapan orientasi",
+        "Foto titik acuan"
+      ],
+      "notes": "Diagram menyebut 'Arah Blok' sebagai unsur bloking; azimut atau orientasi numerik ditetapkan berdasarkan desain teknis lokasi.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-03",
+      "branch": "Lahan Datar",
+      "title": "Penentuan Jumlah Tanaman per Baris",
+      "purpose": "Menghitung dan memverifikasi jumlah titik tanam per baris berdasarkan panjang baris efektif dan jarak tanam yang disahkan.",
+      "scope": "Perhitungan rencana, verifikasi lapangan, dan pencatatan jumlah titik tanam per baris.",
+      "prereq": [
+        "Panjang baris atau batas blok telah ditetapkan.",
+        "Jarak tanam dan pola tanam tersedia dari desain resmi."
+      ],
+      "tools": [
+        "Peta blok",
+        "Meteran/GNSS atau alat ukur",
+        "Kalkulator",
+        "Formulir rekap baris"
+      ],
+      "steps": [
+        "Identifikasi nomor blok dan baris yang akan dihitung.",
+        "Ukur atau ambil panjang baris efektif dari peta ukur yang telah diverifikasi.",
+        "Kurangi bagian yang tidak dapat ditanami sesuai hasil penetapan lapangan, misalnya saluran atau area lindung.",
+        "Gunakan jarak tanam resmi untuk menghitung estimasi titik tanam pada baris tersebut.",
+        "Tandai titik awal dan akhir baris serta seluruh titik tanam di lapangan.",
+        "Hitung ulang jumlah pancang aktual dan bandingkan dengan rencana.",
+        "Telusuri selisih akibat batas, bentuk blok, atau hambatan; jangan menambah/mengurangi titik tanpa persetujuan teknis.",
+        "Rekap jumlah titik per baris dan serahkan untuk pemeriksaan."
+      ],
+      "checks": [
+        "Jumlah rencana dan aktual dapat ditelusuri.",
+        "Selisih memiliki alasan dan catatan.",
+        "Titik tanam tidak melewati batas atau area yang dikecualikan."
+      ],
+      "safety": [
+        "Gunakan alat ukur sesuai petunjuk dan jangan bekerja sendirian di area sulit dijangkau.",
+        "Jaga jarak aman dari kendaraan dan alat berat."
+      ],
+      "environment": [
+        "Pertahankan area yang dikecualikan dari penanaman.",
+        "Hindari pengukuran yang menyebabkan kerusakan vegetasi lindung."
+      ],
+      "records": [
+        "Rekap jumlah tanaman per baris",
+        "Peta titik tanam",
+        "Catatan koreksi"
+      ],
+      "notes": "Rumus operasional harus mengikuti metode penghitungan perusahaan, terutama untuk baris pada batas blok yang tidak penuh.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-04",
+      "branch": "Lahan Datar",
+      "title": "Penentuan Jumlah Baris per Hektare",
+      "purpose": "Menghitung jumlah baris tanam dalam satuan luas berdasarkan desain jarak antarbaris dan luas efektif areal.",
+      "scope": "Perencanaan dan verifikasi jumlah baris per hektare pada blok lahan datar.",
+      "prereq": [
+        "Luas efektif blok telah dihitung.",
+        "Jarak antarbaris dan arah blok disahkan."
+      ],
+      "tools": [
+        "Peta blok",
+        "Data ukur luas",
+        "Alat ukur lapangan",
+        "Kalkulator dan formulir"
+      ],
+      "steps": [
+        "Pastikan luas bruto dan luas efektif blok dibedakan.",
+        "Identifikasi jarak antarbaris pada desain yang berlaku.",
+        "Tentukan batas blok dan bagian yang tidak dapat ditanami.",
+        "Hitung estimasi jumlah baris berdasarkan geometri blok dan jarak antarbaris; untuk bentuk tidak beraturan gunakan peta ukur atau penghitungan baris aktual.",
+        "Verifikasi jumlah baris di lapangan dengan nomor baris yang konsisten.",
+        "Catat baris parsial atau baris yang terpotong oleh batas dan fasilitas kebun.",
+        "Bandingkan hasil rencana dengan kondisi aktual dan ajukan koreksi kepada penanggung jawab teknis.",
+        "Simpan rekap per blok sebagai dasar pengendalian pekerjaan."
+      ],
+      "checks": [
+        "Luas efektif dan jarak antarbaris menggunakan data yang disahkan.",
+        "Baris aktual dapat ditelusuri pada peta.",
+        "Baris parsial dan area pengecualian dicatat."
+      ],
+      "safety": [
+        "Patuhi prosedur survei lapangan dan komunikasi dengan operator kendaraan.",
+        "Hentikan pengukuran bila cuaca atau kondisi medan tidak aman."
+      ],
+      "environment": [
+        "Jangan memasukkan area konservasi sebagai luas tanam efektif.",
+        "Lindungi saluran dan sempadan."
+      ],
+      "records": [
+        "Rekap jumlah baris per hektare",
+        "Peta blok bernomor baris",
+        "Data luas efektif"
+      ],
+      "notes": "Tidak ada angka jumlah baris per hektare pada diagram; hasil bergantung pada jarak tanam, bentuk blok, dan luas efektif.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-05",
+      "branch": "Lahan Datar",
+      "title": "Penentuan Jarak Antarbaris",
+      "purpose": "Memastikan jarak antarbaris tanam sesuai rancangan agronomi dan menjadi acuan pemancangan serta penanaman.",
+      "scope": "Pemeriksaan dokumen desain, pengukuran, penandaan, dan verifikasi jarak antarbaris.",
+      "prereq": [
+        "Desain jarak tanam disetujui.",
+        "Arah blok dan garis acuan telah ditetapkan."
+      ],
+      "tools": [
+        "Desain tanam",
+        "Meteran atau alat ukur presisi",
+        "Pancang/penanda",
+        "Formulir inspeksi"
+      ],
+      "steps": [
+        "Periksa dokumen desain untuk memperoleh jarak antarbaris resmi.",
+        "Tentukan titik acuan pengukuran dan garis barisan.",
+        "Lakukan pengukuran antarbaris pada beberapa titik representatif, termasuk bagian tengah dan tepi blok.",
+        "Bandingkan hasil ukur dengan toleransi yang ditetapkan perusahaan.",
+        "Tandai bagian yang tidak sesuai dan identifikasi penyebabnya, seperti bentuk blok atau kesalahan garis acuan.",
+        "Lakukan koreksi pemancangan setelah mendapat persetujuan pengawas.",
+        "Ulangi pengukuran pada titik koreksi.",
+        "Catat hasil ukur, lokasi, alat, petugas, dan persetujuan."
+      ],
+      "checks": [
+        "Jarak sesuai desain dan toleransi resmi.",
+        "Titik ukur mewakili kondisi blok.",
+        "Penyimpangan dikoreksi dan terdokumentasi."
+      ],
+      "safety": [
+        "Gunakan alat ukur dengan benar dan hindari menarik pita ukur melintasi jalur kendaraan aktif.",
+        "Gunakan APD lapangan."
+      ],
+      "environment": [
+        "Pengukuran tidak menjadi alasan membuka vegetasi atau mengubah saluran."
+      ],
+      "records": [
+        "Form pengukuran jarak antarbaris",
+        "Peta titik ukur",
+        "Catatan tindakan koreksi"
+      ],
+      "notes": "Nilai jarak dan toleransi wajib diambil dari standar tanam perusahaan atau rekomendasi agronomis untuk bahan tanam yang digunakan.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-06",
+      "branch": "Lahan Datar",
+      "title": "Penetapan dan Pembuatan TPH",
+      "purpose": "Menetapkan lokasi dan jumlah Tempat Pengumpulan Hasil (TPH) pada blok agar mendukung akses panen dan pengangkutan tanpa mengganggu tata letak tanam.",
+      "scope": "Perencanaan lokasi, penandaan, pemeriksaan akses, dan dokumentasi TPH dalam kegiatan persiapan lahan.",
+      "prereq": [
+        "Rancangan blok dan jaringan jalan tersedia.",
+        "Kebutuhan TPH telah dihitung oleh tim teknis."
+      ],
+      "tools": [
+        "Peta blok dan jalan",
+        "Alat ukur/GNSS",
+        "Patok dan papan identitas",
+        "Peralatan kerja sesuai desain sipil yang disetujui"
+      ],
+      "steps": [
+        "Tinjau rancangan blok, jalan panen, arah barisan, dan rencana pengangkutan.",
+        "Tentukan kandidat lokasi TPH sesuai standar jarak layanan dan kebutuhan operasional perusahaan.",
+        "Pastikan lokasi tidak berada pada sempadan sungai, saluran utama, area lindung, atau titik rawan genangan.",
+        "Periksa ruang manuver dan akses kendaraan berdasarkan desain operasional yang disetujui.",
+        "Tandai lokasi dan nomor TPH pada peta serta di lapangan.",
+        "Lakukan pemeriksaan bersama bagian operasional, teknik, dan lingkungan bila diperlukan.",
+        "Bangun atau siapkan permukaan TPH hanya sesuai gambar kerja dan persetujuan teknis.",
+        "Periksa kestabilan, drainase, akses, dan keselamatan sebelum TPH digunakan.",
+        "Catat lokasi, ukuran sesuai desain, status, dan hasil inspeksi."
+      ],
+      "checks": [
+        "Lokasi TPH sesuai peta dan mudah diidentifikasi.",
+        "Akses aman dan tidak menghambat aliran air.",
+        "Dimensi dan konstruksi mengikuti gambar kerja yang disahkan."
+      ],
+      "safety": [
+        "Pekerjaan konstruksi dilakukan oleh pekerja terlatih di bawah pengawasan; patuhi zona aman alat berat.",
+        "Jangan memasuki area kerja alat berat tanpa izin operator/pengawas."
+      ],
+      "environment": [
+        "Cegah sedimentasi ke saluran dan badan air.",
+        "Kelola material galian dan timbunan sesuai rencana lingkungan."
+      ],
+      "records": [
+        "Peta dan daftar koordinat TPH",
+        "Gambar kerja",
+        "Checklist inspeksi dan foto"
+      ],
+      "notes": "Diagram mencantumkan 'TPH (1,3 TPH/ha)'. Angka tersebut diperlakukan sebagai catatan pada diagram, bukan standar universal; validasi dengan standar perusahaan sebelum diterapkan.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-07",
+      "branch": "Lahan Bergelombang",
+      "title": "Pembuatan Terasering",
+      "purpose": "Menyiapkan bentuk teras pada lahan bergelombang sesuai desain konservasi tanah dan air untuk mendukung penanaman dan mengurangi risiko erosi.",
+      "scope": "Survei, penetapan desain, penandaan, pelaksanaan oleh tenaga kompeten, dan inspeksi teras.",
+      "prereq": [
+        "Survei topografi dan kemiringan tersedia.",
+        "Desain teras disetujui tenaga teknis/konservasi.",
+        "Area lindung, aliran air, dan zona rawan telah dipetakan."
+      ],
+      "tools": [
+        "Peta kontur/topografi",
+        "Patok kontur",
+        "Alat survei",
+        "Alat konstruksi sesuai rencana kerja",
+        "APD sesuai pekerjaan"
+      ],
+      "steps": [
+        "Lakukan survei topografi dan identifikasi pola aliran permukaan serta titik rawan erosi.",
+        "Tentukan kelayakan lahan untuk teras berdasarkan kajian teknis; jangan menetapkan desain hanya dari perkiraan visual.",
+        "Susun desain teras, dimensi, kemiringan, saluran pengalir, dan outlet oleh personel kompeten.",
+        "Tandai trase teras di lapangan mengikuti desain yang disetujui.",
+        "Sosialisasikan batas kerja, jalur alat, dan tindakan pengendalian erosi kepada pelaksana.",
+        "Laksanakan pembentukan teras sesuai gambar kerja dan pengawasan teknis.",
+        "Kelola tanah pucuk secara terpisah bila diwajibkan dalam rencana reklamasi/pengelolaan tanah.",
+        "Bangun saluran pengarah dan outlet yang stabil sesuai desain agar air tidak terkonsentrasi pada titik yang rentan.",
+        "Periksa kontinuitas, kestabilan, genangan, longsoran kecil, dan aliran keluar setelah pekerjaan serta setelah hujan.",
+        "Perbaiki ketidaksesuaian sebelum penanaman."
+      ],
+      "checks": [
+        "Teras mengikuti trase dan dimensi desain yang disetujui.",
+        "Saluran dan outlet berfungsi tanpa menyebabkan erosi baru.",
+        "Tidak ada kerusakan pada area lindung atau alur air alami."
+      ],
+      "safety": [
+        "Survei dan konstruksi pada lereng dilakukan oleh personel terlatih dengan pengawasan.",
+        "Hentikan pekerjaan saat hujan lebat, petir, atau kondisi lereng tidak stabil.",
+        "Jaga jarak aman dari alat berat dan tepi lereng."
+      ],
+      "environment": [
+        "Terapkan pengendalian sedimen dan perlindungan badan air.",
+        "Minimalkan bukaan tanah dan pulihkan area terganggu sesuai rencana."
+      ],
+      "records": [
+        "Peta kontur dan trase teras",
+        "Gambar desain dan persetujuan",
+        "Checklist inspeksi sebelum/sesudah hujan",
+        "Foto pekerjaan"
+      ],
+      "notes": "Dimensi, kemiringan, dan kelayakan teras tidak ditentukan dalam diagram; wajib berdasarkan survei dan desain konservasi lokasi.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-08",
+      "branch": "Lahan Bergelombang",
+      "title": "Pancang Kontur",
+      "purpose": "Menandai garis kontur sebagai acuan konservasi dan penataan pekerjaan pada lahan bergelombang.",
+      "scope": "Pengukuran kontur, penandaan garis, pemeriksaan, dan penyerahan hasil kepada tim pelaksana.",
+      "prereq": [
+        "Peta topografi atau hasil survei tersedia.",
+        "Metode dan interval kontur telah ditetapkan tenaga teknis."
+      ],
+      "tools": [
+        "Alat ukur kontur/level/GNSS sesuai kebutuhan",
+        "Pancang kontur",
+        "Peta kerja",
+        "Catatan survei"
+      ],
+      "steps": [
+        "Pelajari peta topografi dan rencana konservasi lahan.",
+        "Tentukan titik awal, benchmark, dan interval kontur sesuai instruksi teknis.",
+        "Lakukan pengukuran oleh petugas terlatih menggunakan alat yang sesuai.",
+        "Tandai titik-titik kontur di lapangan secara berurutan dan hubungkan menjadi garis kontur.",
+        "Periksa kembali keterhubungan garis dan konsistensi elevasi pada titik kontrol.",
+        "Tandai lokasi alur air, cekungan, atau hambatan yang memerlukan desain khusus.",
+        "Serahkan peta dan penandaan kepada pengawas untuk persetujuan sebelum pekerjaan teras atau penanaman.",
+        "Dokumentasikan alat, metode, titik kontrol, hasil, dan koreksi."
+      ],
+      "checks": [
+        "Garis kontur konsisten dengan data survei.",
+        "Titik kontrol dan interval tercatat.",
+        "Lokasi khusus telah ditandai untuk penanganan teknis."
+      ],
+      "safety": [
+        "Bergerak hati-hati pada lereng dan gunakan komunikasi tim.",
+        "Jangan melakukan survei ketika petir atau kondisi permukaan licin membahayakan."
+      ],
+      "environment": [
+        "Hindari pemotongan vegetasi berlebihan untuk membuat garis pandang.",
+        "Jangan mengubah aliran alami tanpa desain."
+      ],
+      "records": [
+        "Peta kontur hasil ukur",
+        "Daftar titik koordinat/elevasi",
+        "Form pemeriksaan"
+      ],
+      "notes": "Interval kontur, toleransi ukur, dan metode alat ditentukan oleh desain konservasi dan kondisi setempat.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-09",
+      "branch": "Lahan Bergelombang",
+      "title": "Pembuatan Lubang Tanam",
+      "purpose": "Menyiapkan lubang tanam pada titik yang telah dipancang dengan ukuran dan tata cara sesuai standar penanaman setempat.",
+      "scope": "Pemeriksaan titik, penggalian lubang, pemisahan tanah, pengamanan, dan pemeriksaan lubang sebelum tanam.",
+      "prereq": [
+        "Pancang titik tanam telah disetujui.",
+        "Kondisi tanah dan potensi genangan/erosi telah diperiksa.",
+        "Ukuran lubang dan metode kerja tersedia dalam standar perusahaan."
+      ],
+      "tools": [
+        "Alat gali yang sesuai",
+        "Pancang/penanda",
+        "Alat ukur",
+        "Perlengkapan kerja dan APD"
+      ],
+      "steps": [
+        "Pastikan titik lubang sesuai pancang dan tidak berada pada saluran, sempadan, atau area terlarang.",
+        "Periksa kondisi tanah, kelembapan, batuan, akar, dan potensi genangan.",
+        "Pastikan ukuran dan bentuk lubang mengacu pada standar perusahaan untuk jenis tanah dan bahan tanam.",
+        "Lakukan penggalian dengan menjaga kestabilan sisi lubang dan memisahkan tanah pucuk dari tanah bawah bila prosedur mengharuskan.",
+        "Letakkan tanah galian pada posisi yang tidak menutup saluran atau mengganggu akses.",
+        "Periksa kedalaman, lebar, posisi, dan kondisi dasar lubang menggunakan alat ukur.",
+        "Tutup atau beri penanda/pengaman sementara pada lubang yang belum segera ditanami agar tidak menjadi bahaya.",
+        "Lakukan perbaikan bila ukuran atau posisi tidak sesuai.",
+        "Catat jumlah lubang, blok, tanggal, tenaga kerja, dan hasil pemeriksaan."
+      ],
+      "checks": [
+        "Lubang berada pada titik tanam yang benar.",
+        "Dimensi mengikuti standar tertulis perusahaan.",
+        "Tidak ada lubang terbuka tanpa penanda/pengamanan."
+      ],
+      "safety": [
+        "Gunakan alat gali sesuai pelatihan dan APD; jaga jarak antarpekerja.",
+        "Waspadai utilitas tertanam, akar besar, hewan, dan dinding lubang yang tidak stabil.",
+        "Jangan melompat ke dalam lubang atau bekerja pada lubang yang berisiko runtuh."
+      ],
+      "environment": [
+        "Cegah tanah galian masuk ke parit atau badan air.",
+        "Pertahankan tanah pucuk untuk digunakan kembali sesuai prosedur."
+      ],
+      "records": [
+        "Checklist lubang tanam",
+        "Rekap jumlah dan dimensi sampel",
+        "Foto hasil"
+      ],
+      "notes": "Ukuran lubang, penggunaan bahan pembenah, dan waktu penggalian harus mengacu pada standar agronomi setempat; tidak tercantum pada diagram.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-10",
+      "branch": "Lahan Bergelombang",
+      "title": "Penanaman pada Lahan Bergelombang",
+      "purpose": "Mengatur penanaman pada titik yang telah disiapkan di lahan bergelombang dengan memperhatikan desain kontur, stabilitas tanah, dan konservasi.",
+      "scope": "Pemeriksaan kesiapan, penempatan tanaman, penutupan lubang, dan pemeriksaan awal setelah tanam.",
+      "prereq": [
+        "Pancang dan lubang tanam telah lolos pemeriksaan.",
+        "Desain kontur/teras serta bahan tanam telah disetujui.",
+        "Kondisi cuaca dan tanah memungkinkan pekerjaan."
+      ],
+      "tools": [
+        "Bahan tanam sesuai spesifikasi",
+        "Alat bantu tanam",
+        "Media/tanah pengisi sesuai prosedur",
+        "Label identitas bila diperlukan"
+      ],
+      "steps": [
+        "Verifikasi identitas bahan tanam dan kesesuaiannya dengan rencana blok.",
+        "Pastikan titik tanam, teras, dan lubang dalam kondisi aman serta sesuai desain.",
+        "Tempatkan bahan tanam sesuai instruksi teknis agar posisi tegak dan kedalaman tanam benar.",
+        "Isi kembali lubang secara bertahap menggunakan tanah sesuai prosedur, tanpa merusak akar atau titik tumbuh.",
+        "Padatkan secukupnya sesuai standar agar tanaman stabil dan tidak menyisakan rongga besar.",
+        "Bentuk permukaan sekitar tanaman agar tidak mengarahkan limpasan secara terkonsentrasi.",
+        "Pasang identitas tanaman/blok bila sistem pencatatan mensyaratkan.",
+        "Periksa posisi, kestabilan, kondisi tanaman, dan aliran air di sekitar titik tanam.",
+        "Catat jumlah tertanam, bahan tanam yang tidak layak, dan kebutuhan penyisipan."
+      ],
+      "checks": [
+        "Tanaman berada pada titik dan posisi yang benar.",
+        "Penutupan lubang rapi dan tanaman stabil.",
+        "Tidak terbentuk alur erosi atau genangan akibat pekerjaan."
+      ],
+      "safety": [
+        "Gunakan teknik angkat yang aman dan alat bantu bila diperlukan.",
+        "Gunakan APD lapangan dan hindari bekerja pada lereng licin atau cuaca buruk."
+      ],
+      "environment": [
+        "Jaga kontur dan fasilitas konservasi.",
+        "Kelola kemasan atau sisa bahan sesuai prosedur kebun."
+      ],
+      "records": [
+        "Daftar tanam per blok/baris",
+        "Rekap bahan tanam",
+        "Checklist inspeksi awal dan foto"
+      ],
+      "notes": "Detail teknis penanaman mengikuti SOP penanaman dan standar bahan tanam perusahaan; SOP ini hanya mencakup pelaksanaan pada lahan bergelombang.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-11",
+      "branch": "Lahan Gambut",
+      "title": "Penataan Populasi Padat pada Lahan Gambut",
+      "purpose": "Mengatur rencana populasi tanaman pada lahan gambut berdasarkan kajian kesesuaian lahan, tata air, dan rekomendasi teknis yang disahkan.",
+      "scope": "Kajian awal, perencanaan populasi, penandaan, dan verifikasi rencana pada areal gambut.",
+      "prereq": [
+        "Peta kedalaman/karakteristik gambut dan kajian kesesuaian lahan tersedia.",
+        "Kajian tata air, konservasi, dan kepatuhan perizinan telah dilakukan.",
+        "Rekomendasi populasi dan pola tanam disetujui tenaga ahli."
+      ],
+      "tools": [
+        "Peta gambut dan blok",
+        "Data survei tanah",
+        "Desain populasi/pola tanam",
+        "Alat ukur dan pencatatan"
+      ],
+      "steps": [
+        "Pastikan status dan batas areal gambut serta area yang tidak boleh dikembangkan telah diverifikasi.",
+        "Kumpulkan data karakteristik gambut dan kondisi hidrologis dari survei yang sah.",
+        "Lakukan penilaian kesesuaian dan risiko lingkungan oleh personel kompeten.",
+        "Tentukan apakah areal layak untuk kegiatan sesuai peraturan dan kebijakan perusahaan; jangan menganggap semua gambut dapat ditanami.",
+        "Jika kegiatan dinyatakan layak, gunakan rekomendasi populasi dan pola tanam yang disetujui, bukan asumsi umum.",
+        "Tandai batas area, jalur kerja, titik tanam, serta zona perlindungan sesuai peta.",
+        "Verifikasi rancangan terhadap tata air dan kebutuhan perlindungan gambut.",
+        "Hentikan proses dan eskalasikan bila ditemukan indikasi area lindung, ketidaksesuaian izin, atau risiko hidrologis yang belum dikendalikan.",
+        "Dokumentasikan dasar keputusan, peta, persetujuan, dan hasil verifikasi."
+      ],
+      "checks": [
+        "Ada kajian kesesuaian dan persetujuan tertulis.",
+        "Populasi dan pola tanam memiliki dasar teknis spesifik lokasi.",
+        "Area lindung dan batas pengembangan terpetakan."
+      ],
+      "safety": [
+        "Survei dilakukan oleh tim terlatih; waspadai tanah lunak, genangan, dan akses terbatas.",
+        "Siapkan komunikasi dan prosedur keadaan darurat sesuai penilaian risiko lokasi."
+      ],
+      "environment": [
+        "Lindungi fungsi hidrologis gambut dan area bernilai konservasi.",
+        "Tidak melakukan pengeringan atau pembukaan gambut tanpa dasar legal, kajian, dan persetujuan yang diperlukan.",
+        "Patuhi ketentuan perlindungan gambut dan kebijakan ISPO/perusahaan yang berlaku."
+      ],
+      "records": [
+        "Kajian kesesuaian lahan",
+        "Peta batas dan tata air",
+        "Persetujuan teknis/legal",
+        "Rencana populasi dan checklist verifikasi"
+      ],
+      "notes": "Istilah 'Populasi padat' muncul pada diagram. Tidak ada angka populasi atau rekomendasi teknis di sumber; kelayakan dan kepadatan wajib ditetapkan melalui kajian serta regulasi yang berlaku.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-12",
+      "branch": "Lahan Gambut",
+      "title": "Sistem Hole in Hole",
+      "purpose": "Mendokumentasikan dan mengendalikan penerapan metode hole in hole pada lokasi gambut hanya apabila metode tersebut disetujui dalam desain teknis spesifik lokasi.",
+      "scope": "Pemeriksaan persetujuan, penyiapan titik/lubang, pelaksanaan sesuai gambar kerja, dan inspeksi hasil.",
+      "prereq": [
+        "Areal telah dinyatakan layak dan memiliki persetujuan yang diperlukan.",
+        "Metode hole in hole, dimensi, dan tata cara tertulis telah disahkan tenaga teknis.",
+        "Kesesuaian terhadap tata air dan perlindungan gambut telah dikaji."
+      ],
+      "tools": [
+        "Gambar kerja/metode tertulis",
+        "Alat ukur",
+        "Peralatan kerja sesuai metode yang disetujui",
+        "Checklist inspeksi"
+      ],
+      "steps": [
+        "Periksa dokumen persetujuan lahan dan desain teknis yang secara eksplisit mengizinkan metode hole in hole.",
+        "Pastikan lokasi titik kerja sesuai peta dan tidak berada pada zona perlindungan atau area yang dilarang.",
+        "Lakukan briefing metode, pembagian tugas, bahaya kerja, dan pengendalian lingkungan.",
+        "Tandai titik dan batas pekerjaan sesuai gambar kerja.",
+        "Laksanakan penyiapan lubang mengikuti dimensi, urutan, dan material yang tertulis dalam metode resmi; jangan mengubah ukuran atau konstruksi berdasarkan perkiraan.",
+        "Jaga agar pekerjaan tidak mengganggu sistem tata air atau menyebabkan pengeringan/penurunan permukaan yang tidak terkendali.",
+        "Periksa hasil setiap titik terhadap gambar kerja dan kriteria penerimaan.",
+        "Hentikan dan laporkan bila kondisi lapangan berbeda dari asumsi desain atau ditemukan dampak hidrologis yang tidak diantisipasi.",
+        "Dokumentasikan lokasi, jumlah titik, metode, hasil inspeksi, dan persetujuan."
+      ],
+      "checks": [
+        "Metode memiliki persetujuan tertulis dan gambar kerja.",
+        "Pelaksanaan sesuai detail teknis yang disahkan.",
+        "Tidak ada perubahan tata air atau dampak yang tidak terkendali."
+      ],
+      "safety": [
+        "Pekerjaan dilakukan oleh pekerja terlatih dengan pengawasan.",
+        "Amankan lubang terbuka dan cegah orang/alat terperosok.",
+        "Waspadai kestabilan tanah gambut dan genangan."
+      ],
+      "environment": [
+        "Tidak membuat saluran atau mengubah muka air tanpa desain dan izin.",
+        "Lindungi area gambut yang harus dipertahankan."
+      ],
+      "records": [
+        "Gambar kerja dan persetujuan",
+        "Daftar titik hole in hole",
+        "Checklist inspeksi dan foto"
+      ],
+      "notes": "Diagram hanya menyebut 'Hole in Hole'. Tidak menjelaskan dimensi, bahan, atau metode. SOP ini sengaja mensyaratkan metode tertulis yang disahkan dan tidak mengarang detail teknis.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-13",
+      "branch": "Lahan Rendahan",
+      "title": "Pembuatan dan Penataan Drainase",
+      "purpose": "Menyiapkan sistem drainase pada lahan rendahan berdasarkan kajian hidrologi dan desain yang disetujui agar pengelolaan air tidak menimbulkan dampak lingkungan.",
+      "scope": "Identifikasi kondisi air, perencanaan, penandaan, pelaksanaan saluran sesuai desain, dan pemantauan fungsi drainase.",
+      "prereq": [
+        "Survei elevasi, kondisi genangan, dan arah aliran tersedia.",
+        "Desain drainase disusun/ditinjau tenaga teknis dan lingkungan.",
+        "Persetujuan dan batas perlindungan badan air telah dipastikan."
+      ],
+      "tools": [
+        "Peta elevasi/topografi",
+        "Alat ukur elevasi",
+        "Gambar desain drainase",
+        "Patok penanda",
+        "Peralatan konstruksi sesuai rencana"
+      ],
+      "steps": [
+        "Identifikasi area rendah, sumber genangan, jalur aliran alami, dan badan air penerima.",
+        "Kumpulkan data elevasi dan kondisi hidrologi sebelum menentukan trase saluran.",
+        "Tentukan kebutuhan dan tipe drainase berdasarkan kajian teknis serta ketentuan perlindungan lingkungan.",
+        "Pastikan desain mencantumkan dimensi, kemiringan, outlet, struktur pengendali, dan tindakan pengendalian sedimen.",
+        "Tandai trase saluran sesuai gambar kerja; verifikasi tidak memotong zona perlindungan atau mengalihkan aliran ke lahan sekitar secara merugikan.",
+        "Laksanakan pekerjaan sesuai desain oleh personel kompeten dan di bawah pengawasan.",
+        "Stabilkan tebing/sisi saluran dan outlet sesuai rancangan untuk mengurangi erosi.",
+        "Periksa aliran, genangan, sedimentasi, dan potensi dampak pada area sekitar setelah pekerjaan dan saat pemantauan berkala.",
+        "Bersihkan sumbatan secara terkendali tanpa memperdalam atau memperlebar saluran di luar desain.",
+        "Catat kondisi awal, hasil pekerjaan, inspeksi, dan tindakan perbaikan."
+      ],
+      "checks": [
+        "Trase, dimensi, dan outlet sesuai desain yang disetujui.",
+        "Tidak terjadi erosi, sedimentasi, atau dampak hilir yang tidak terkendali.",
+        "Fungsi drainase dipantau dan dicatat."
+      ],
+      "safety": [
+        "Pekerjaan saluran dan alat berat dilakukan personel terlatih.",
+        "Jangan bekerja sendirian di saluran dalam/berair; terapkan prosedur keselamatan lokasi.",
+        "Hentikan pekerjaan saat hujan ekstrem atau kondisi tebing tidak stabil."
+      ],
+      "environment": [
+        "Jangan mengeringkan lahan gambut atau mengubah aliran alami tanpa kajian dan persetujuan.",
+        "Jaga sempadan dan kualitas air; kendalikan sedimen.",
+        "Kelola hasil galian agar tidak menutup badan air."
+      ],
+      "records": [
+        "Peta dan gambar drainase",
+        "Data elevasi dan persetujuan",
+        "Checklist inspeksi berkala",
+        "Foto sebelum-sesudah"
+      ],
+      "notes": "Diagram mencantumkan drainase untuk lahan rendahan, tetapi tidak memberikan dimensi atau debit rencana; semua parameter harus berasal dari desain hidrologi.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-14",
+      "branch": "Pemetaan",
+      "title": "Pemetaan Menggunakan Aplikasi Drone",
+      "purpose": "Menghasilkan data visual dan spasial areal persiapan lahan menggunakan drone untuk mendukung perencanaan, pemantauan, dan dokumentasi.",
+      "scope": "Perencanaan misi, pemeriksaan legalitas dan keselamatan, pengambilan data oleh operator kompeten, pengolahan, dan validasi hasil.",
+      "prereq": [
+        "Tujuan pemetaan dan area kerja ditetapkan.",
+        "Izin penerbangan/operasional dan persetujuan pemilik/pengelola area telah dipastikan.",
+        "Operator memiliki kompetensi dan mengikuti ketentuan penerbangan yang berlaku."
+      ],
+      "tools": [
+        "Drone dan perangkat kendali yang laik",
+        "Baterai/perangkat pendukung sesuai pabrikan",
+        "Aplikasi perencanaan dan pengolahan data",
+        "Peta dasar/GNSS bila diperlukan",
+        "APD dan checklist keselamatan"
+      ],
+      "steps": [
+        "Tentukan kebutuhan data, cakupan, resolusi, sistem koordinat, dan keluaran peta.",
+        "Periksa batas area, ruang udara, larangan terbang, cuaca, serta izin yang diperlukan.",
+        "Operator memeriksa kondisi perangkat sesuai checklist pabrikan dan prosedur keselamatan.",
+        "Susun rencana misi berdasarkan panduan pabrikan dan ketentuan operasional; parameter penerbangan ditetapkan operator kompeten.",
+        "Lakukan briefing area, titik lepas landas/pendaratan, pengamat, komunikasi, dan prosedur pembatalan misi.",
+        "Laksanakan akuisisi data hanya dalam kondisi aman dan sesuai izin.",
+        "Simpan data asli beserta metadata tanggal, operator, perangkat, area, dan pengaturan misi.",
+        "Olah data dengan aplikasi yang sesuai untuk menghasilkan peta/ortomosaik/model yang dibutuhkan.",
+        "Validasi hasil terhadap titik kontrol atau sumber data pembanding; tandai area tertutup awan, blur, atau tidak tercakup.",
+        "Simpan hasil final, metadata, dan catatan keterbatasan; batasi akses data sesuai kebijakan perusahaan."
+      ],
+      "checks": [
+        "Misi memiliki izin dan checklist keselamatan.",
+        "Cakupan dan kualitas data memenuhi tujuan pemetaan.",
+        "Sistem koordinat, tanggal, metadata, dan keterbatasan dicatat."
+      ],
+      "safety": [
+        "Hanya operator kompeten yang mengoperasikan drone; patuhi peraturan penerbangan dan instruksi pabrikan.",
+        "Jangan menerbangkan saat cuaca buruk, dekat orang tanpa pengamanan, atau di area terlarang.",
+        "Jaga privasi dan hindari merekam area pribadi yang tidak relevan."
+      ],
+      "environment": [
+        "Hindari gangguan satwa dan area sensitif.",
+        "Gunakan data hanya untuk tujuan yang sah dan sesuai kebijakan privasi."
+      ],
+      "records": [
+        "Izin dan checklist pra-operasi",
+        "Rencana misi",
+        "Data mentah dan metadata",
+        "Peta hasil dan laporan validasi"
+      ],
+      "notes": "Diagram menyebut 'Aplikasi Dron'. SOP ini mengatur tata kelola pemetaan; parameter teknis penerbangan mengikuti peraturan dan manual perangkat.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    },
+    {
+      "id": "LP-15",
+      "branch": "Pemetaan",
+      "title": "Pemetaan Menggunakan Citra Landsat",
+      "purpose": "Memanfaatkan citra satelit Landsat sebagai salah satu sumber informasi spasial untuk penilaian awal dan pemantauan kondisi areal persiapan lahan.",
+      "scope": "Penentuan kebutuhan citra, pemilihan tanggal/scene, pengolahan, interpretasi, validasi lapangan, dan penyimpanan hasil.",
+      "prereq": [
+        "Batas area dan tujuan analisis jelas.",
+        "Pengguna memahami keterbatasan resolusi, tutupan awan, dan interpretasi citra.",
+        "Data pembanding lapangan atau peta dasar tersedia bila diperlukan."
+      ],
+      "tools": [
+        "Citra Landsat dari sumber resmi",
+        "Peta batas blok",
+        "Perangkat lunak GIS/pengolah citra",
+        "Data lapangan/GNSS untuk validasi",
+        "Lembar metadata dan analisis"
+      ],
+      "steps": [
+        "Tetapkan tujuan pemetaan, misalnya peninjauan tutupan lahan, perubahan area, atau konteks kondisi permukaan.",
+        "Siapkan batas area kajian dan sistem koordinat yang benar.",
+        "Pilih scene Landsat berdasarkan tanggal, cakupan, tutupan awan, dan kebutuhan analisis.",
+        "Unduh citra serta metadata dari sumber resmi dan simpan informasi sensor, tanggal akuisisi, dan produk.",
+        "Lakukan prapengolahan sesuai produk yang digunakan, termasuk pemeriksaan kualitas dan penanganan awan/bayangan.",
+        "Lakukan komposit atau indeks/klasifikasi hanya bila metode dan tujuan analisis telah ditentukan.",
+        "Interpretasikan hasil dengan memperhatikan resolusi spasial dan kemungkinan salah klasifikasi.",
+        "Validasi hasil menggunakan survei lapangan, citra resolusi lebih tinggi yang sah, atau data referensi yang dapat dipertanggungjawabkan.",
+        "Tandai area yang tidak dapat disimpulkan karena awan, bayangan, atau keterbatasan data.",
+        "Sajikan peta, legenda, tanggal citra, metode, sumber, akurasi/keterbatasan, dan rekomendasi tindak lanjut."
+      ],
+      "checks": [
+        "Sumber, tanggal, sensor, dan metadata tercatat.",
+        "Analisis sesuai tujuan dan resolusi data.",
+        "Interpretasi divalidasi dan keterbatasan dijelaskan."
+      ],
+      "safety": [
+        "Kegiatan analisis dilakukan dengan memperhatikan keselamatan saat validasi lapangan.",
+        "Survei lapangan mengikuti prosedur keselamatan kebun."
+      ],
+      "environment": [
+        "Jangan menjadikan interpretasi citra sebagai satu-satunya dasar pembukaan lahan atau keputusan yang berdampak pada kawasan lindung.",
+        "Gunakan data untuk membantu identifikasi dan verifikasi, bukan menggantikan pemeriksaan legal dan lapangan."
+      ],
+      "records": [
+        "Scene dan metadata citra",
+        "Proyek GIS dan metode analisis",
+        "Peta hasil dan laporan validasi",
+        "Catatan keterbatasan"
+      ],
+      "notes": "Diagram hanya menyebut 'Citra Landsat'. Sensor, tanggal, indeks, metode klasifikasi, dan ambang interpretasi harus dipilih sesuai tujuan serta divalidasi.",
+      "version": "1.0",
+      "date": "2026-11-11",
+      "source": "Diagram 'MANAJEMEN Produktivitas KS Berbasis ISPO (Sg)', halaman 1, cabang 2. Land Preparation.",
+      "status": "Draf akademik/template; perlu peninjauan dan pengesahan perusahaan sebelum digunakan sebagai instruksi operasional.",
+      "roles": [
+        "Penanggung jawab teknis/Asisten afdeling: menyetujui rencana dan hasil pekerjaan.",
+        "Mandor/pengawas: memberi pengarahan, memeriksa pelaksanaan, dan mencatat hasil.",
+        "Pelaksana/operator kompeten: melakukan pekerjaan sesuai pelatihan, izin, dan instruksi kerja."
+      ],
+      "references": [
+        "Diagram sumber pada halaman 1 (nama cabang/topik).",
+        "Standar operasional, desain teknis, peraturan, dan rekomendasi agronomi/lingkungan yang berlaku di lokasi; harus dilengkapi oleh perusahaan."
+      ],
+      "frequency": "Sesuai tahapan persiapan lahan dan rencana kerja blok; inspeksi ulang dilakukan setelah koreksi atau kejadian yang dapat mengubah kondisi lapangan."
+    }
+  ]
+}
